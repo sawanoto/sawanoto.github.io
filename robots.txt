@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sawanoto.github.io/sawamoto/sitemap.xml
